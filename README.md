@@ -33,11 +33,7 @@ Follow the instructions below to get our project running on your local machine.
 | ![orange.png](inputs/transfer/orange.png)                                                    | ![potato.png](inputs/transfer/potato.png)                                                  | ![potato-orange.png](outputs/transfer/potato-orange.png)                                                        |
 
 
-## Authors
 
-* **Vamsi Krishna Reddy Satti** - [vamsi3](https://github.com/vamsi3)
-* Vighnesh Reddy Konda - [scopegeneral](https://github.com/scopegeneral)
-* Suraj Soni
 
 ## Acknowledgements
 
